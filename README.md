@@ -12,6 +12,9 @@ To build and run the tests:
 
     $ make test
 
+To build a stream parser:
+    $ make UaParser
+
 Dependencies
 ------------
 
@@ -23,5 +26,6 @@ Author:
 -------
 
   * Alex Şuhan <alex.suhan@gmail.com>
+  * Xingang Wang <itismewxg@gmail.com>
 
   Based on the D implementation by Shripad K and using agent data from BrowserScope.
